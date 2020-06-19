@@ -1,4 +1,4 @@
-# people_analytics
+# Code and Data for learning People Analytics 
 
 Code and data for People/HR/Workforce/ Analytics practitioners, enthusiasts, educators, and newcomers alike. For learning and demonstration purposes.
 
@@ -7,6 +7,10 @@ Code and data for People/HR/Workforce/ Analytics practitioners, enthusiasts, edu
 This repository is open for use by all for educational purposes, and is licensed under GNU GPLv3.
 
 You may use any of these resources for any non-profit-seeking purpose. 
+
+Please cite this repository in your work. You can refer to the following DOI for citation.
+
+[![DOI](https://zenodo.org/badge/273516547.svg)](https://zenodo.org/badge/latestdoi/273516547)
 
 ## Contents
 
@@ -34,4 +38,4 @@ Data gathered from learning management systems (LMS) and survey platorms on trai
 
 ## Contributing
 
-Any contributions are welcome and encouraged. For new content, please submit a pull request. For issues, please submit an issue.
+Any contributions are welcome and encouraged. For new content, please submit a pull request. For problems, please submit an issue.
