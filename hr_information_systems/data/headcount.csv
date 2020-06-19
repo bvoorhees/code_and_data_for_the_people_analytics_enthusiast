@@ -1,0 +1,268 @@
+"Employee Number","First Name","Last Name","Email Address","Department","Job Level","Tenure Date","Pay Rate"
+"00000039","Dukano","Pope","dukano.pope@widgetcorp.com","Admin Offices","Analyst",2013-12-09,28.620592478771
+"00000081","James","Lindsay","james.lindsay@widgetcorp.com","Admin Offices","Director",2015-01-05,64.4944487200763
+"00000088","Jonas","Miranda","jonas.miranda@widgetcorp.com","Admin Offices","Manager",2015-03-10,35.9944655123751
+"00000159","Kevin","Lee","kevin.lee@widgetcorp.com","Admin Offices","Associate",2016-07-07,27.238927618676
+"00000163","Ace","Huang","ace.huang@widgetcorp.com","Admin Offices","Analyst",2016-08-26,39.2435664461977
+"00000180","Luis","Marquez","luis.marquez@widgetcorp.com","Admin Offices","Director",2016-11-22,58.0871555039899
+"00000219","Kevin","Paul","kevin.paul@widgetcorp.com","Admin Offices","Analyst",2017-11-02,27.9335619369545
+"00000220","Abagail","Roncevich","abagail.roncevich@widgetcorp.com","Admin Offices","Analyst",2017-11-03,26.6347554846045
+"00000237","Dillon","Bellum","dillon.bellum@widgetcorp.com","Admin Offices","Associate",2018-04-09,40.0966904876565
+"00000241","Zulfa","al-Noori","zulfa.al-noori@widgetcorp.com","Admin Offices","Analyst",2018-08-01,22.789562462965
+"00000102","Latrell","Gaynor","latrell.gaynor@widgetcorp.com","Complaince","Director",2015-07-04,57.586496906926
+"00000123","Karly","Ritchie","karly.ritchie@widgetcorp.com","Complaince","Associate",2015-11-23,33.7571374603612
+"00000141","Sabaah","al-Hadi","sabaah.al-hadi@widgetcorp.com","Complaince","Associate",2016-03-18,48.2712366751055
+"00000165","Ashlee","Inai","ashlee.inai@widgetcorp.com","Complaince","Manager",2016-08-30,36.3267409307066
+"00000200","Marcus","Benavidez","marcus.benavidez@widgetcorp.com","Complaince","Analyst",2017-04-11,30.4174769829621
+"00000266","Wajiha","Amphonephong","wajiha.amphonephong@widgetcorp.com","Complaince","Analyst",2020-05-01,NA
+"00000013","Antione","Emenyonu","antione.emenyonu@widgetcorp.com","Design","Director",2012-06-22,54.1993375128188
+"00000023","Laveen","Hendricks","laveen.hendricks@widgetcorp.com","Design","VP",2013-03-20,51.248530348682
+"00000040","Timothy","Moule","timothy.moule@widgetcorp.com","Design","Director",2013-12-18,56.0958365412863
+"00000043","Alexis","Safranek","alexis.safranek@widgetcorp.com","Design","Director",2014-01-20,39.942436245109
+"00000045","Carly","Mach","carly.mach@widgetcorp.com","Design","Associate",2014-02-07,35.8843835545999
+"00000069","Cheyenne","Griffin","cheyenne.griffin@widgetcorp.com","Design","Associate",2014-09-17,35.5374630135599
+"00000075","Mikaela","Woody","mikaela.woody@widgetcorp.com","Design","Director",2014-11-03,38.6072121662777
+"00000103","Ashley","Washington-Cloud","ashley.washington-cloud@widgetcorp.com","Design","Manager",2015-07-09,38.428861086755
+"00000106","Tristan","Vosburg","tristan.vosburg@widgetcorp.com","Design","Analyst",2015-08-10,41.6736587737109
+"00000113","Kendall","Murray","kendall.murray@widgetcorp.com","Design","Manager",2015-09-26,59.3320519863885
+"00000118","Jalen","Soriano","jalen.soriano@widgetcorp.com","Design","Associate",2015-10-28,41.1267002420284
+"00000124","Khulood","al-Moradi","khulood.al-moradi@widgetcorp.com","Design","Associate",2015-11-29,32.2038450901013
+"00000136","Justin","Endo","justin.endo@widgetcorp.com","Design","Manager",2016-02-16,49.8200459512299
+"00000156","Maazin","el-Zadeh","maazin.el-zadeh@widgetcorp.com","Design","Analyst",2016-06-12,30.8587238536942
+"00000169","Daniel","Radzihovsky","daniel.radzihovsky@widgetcorp.com","Design","Director",2016-09-08,59.1653570484815
+"00000170","Kayla","Metcalf","kayla.metcalf@widgetcorp.com","Design","Analyst",2016-09-16,26.009711260579
+"00000181","Manuel","Stott","manuel.stott@widgetcorp.com","Design","Associate",2016-11-25,37.0242089439586
+"00000192","Jessica","Ricks","jessica.ricks@widgetcorp.com","Design","Analyst",2017-02-09,27.4901461026032
+"00000199","Robert","Goodteacher","robert.goodteacher@widgetcorp.com","Design","Associate",2017-03-29,42.2482168660679
+"00000223","Jayden","Mellon","jayden.mellon@widgetcorp.com","Design","Analyst",2017-11-29,41.4895663517995
+"00000260","Marcus","Le","marcus.le@widgetcorp.com","Design","Analyst",2019-04-27,26.8761137993457
+"00000018","Alexandrea","Barriteau","alexandrea.barriteau@widgetcorp.com","Engineering","VP",2012-10-06,51.0339910666485
+"00000019","Trevor","Trujillo","trevor.trujillo@widgetcorp.com","Engineering","Director",2012-11-27,51.281593088181
+"00000041","Sara","Conrad-Buckley","sara.conrad-buckley@widgetcorp.com","Engineering","VP",2014-01-10,48.7191979099794
+"00000049","Santiago","Trujillo","santiago.trujillo@widgetcorp.com","Engineering","Manager",2014-03-23,33.0337671297708
+"00000067","Janae","Gaytan","janae.gaytan@widgetcorp.com","Engineering","Director",2014-08-22,42.9683050030018
+"00000072","Seven","Buschman","seven.buschman@widgetcorp.com","Engineering","Manager",2014-10-22,39.4989307737653
+"00000079","Zvi","Rains","zvi.rains@widgetcorp.com","Engineering","Director",2014-12-10,42.7651207967129
+"00000099","Sh-Lanta","Cooper","sh-lanta.cooper@widgetcorp.com","Engineering","Associate",2015-06-21,33.8856590936037
+"00000107","Torivio","Gaytan","torivio.gaytan@widgetcorp.com","Engineering","Associate",2015-08-20,54.4266393844865
+"00000115","Mason","Groves","mason.groves@widgetcorp.com","Engineering","Analyst",2015-10-09,33.5530899538052
+"00000128","Anthony","Remington","anthony.remington@widgetcorp.com","Engineering","Director",2015-12-29,73.7688174950657
+"00000131","Hannah","Dodd","hannah.dodd@widgetcorp.com","Engineering","Associate",2016-01-11,32.5541442383834
+"00000132","Danielle","Sanchez","danielle.sanchez@widgetcorp.com","Engineering","Associate",2016-01-12,30.2503191162756
+"00000133","Zaire","Cobbs","zaire.cobbs@widgetcorp.com","Engineering","Manager",2016-01-17,35.0065912223047
+"00000142","Jesus","Olivas","jesus.olivas@widgetcorp.com","Engineering","Analyst",2016-03-18,43.997470163564
+"00000146","Stephanie","Collier","stephanie.collier@widgetcorp.com","Engineering","Associate",2016-05-06,30.0131228398177
+"00000148","Sasha","Bank","sasha.bank@widgetcorp.com","Engineering","Associate",2016-05-09,30.9944776061739
+"00000154","Mashal","al-Saad","mashal.al-saad@widgetcorp.com","Engineering","Analyst",2016-05-30,25.662038296776
+"00000178","Tyler","West-Brown","tyler.west-brown@widgetcorp.com","Engineering","Analyst",2016-11-07,25.6150154434566
+"00000184","Carlie","Fisher","carlie.fisher@widgetcorp.com","Engineering","Associate",2016-12-19,30.8019586819111
+"00000188","Samantha","Pallan","samantha.pallan@widgetcorp.com","Engineering","Analyst",2017-01-11,24.8356158271699
+"00000203","Dominic","Marquez-Meraz","dominic.marquez-meraz@widgetcorp.com","Engineering","Analyst",2017-05-05,39.4061491099438
+"00000207","Maurice","Anderson","maurice.anderson@widgetcorp.com","Engineering","Analyst",2017-05-29,27.6561114071736
+"00000208","Taaha","al-Yamin","taaha.al-yamin@widgetcorp.com","Engineering","Analyst",2017-06-21,35.8876936826454
+"00000211","Heather","Enriquez","heather.enriquez@widgetcorp.com","Engineering","Analyst",2017-06-26,25.9534990186527
+"00000215","Isaiah","Yi","isaiah.yi@widgetcorp.com","Engineering","Analyst",2017-07-14,32.3020670247987
+"00000216","Dallas","Black","dallas.black@widgetcorp.com","Engineering","Analyst",2017-08-23,38.1995887349873
+"00000222","Annie","Chen","annie.chen@widgetcorp.com","Engineering","Analyst",2017-11-22,26.3720044485987
+"00000227","Malca","Prieto","malca.prieto@widgetcorp.com","Engineering","Analyst",2017-12-18,23.5056445249082
+"00000230","Katherine","Martinez","katherine.martinez@widgetcorp.com","Engineering","Analyst",2018-02-23,25.7904495508712
+"00000236","Shana","Bartlett","shana.bartlett@widgetcorp.com","Engineering","Analyst",2018-04-09,24.3269579324246
+"00000243","Eve","Aguilar","eve.aguilar@widgetcorp.com","Engineering","Analyst",2018-09-02,24.4333172836988
+"00000245","Brittany","Tromble","brittany.tromble@widgetcorp.com","Engineering","Analyst",2018-09-14,20.5881237916586
+"00000249","Sawhitney","Strader","sawhitney.strader@widgetcorp.com","Engineering","Analyst",2018-10-26,22.6115428995698
+"00000251","Lauren","Pebworth-Brown","lauren.pebworth-brown@widgetcorp.com","Engineering","Analyst",2018-11-12,23.7646897269728
+"00000256","Daniel","Lee","daniel.lee@widgetcorp.com","Engineering","Analyst",2019-01-25,29.7796297686523
+"00000001","Ameena","el-Jabour","ameena.el-jabour@widgetcorp.com","Executive","Executive",2011-05-07,88.6705157408376
+"00000002","Jake","Heinze","jake.heinze@widgetcorp.com","Executive","Executive",2011-05-07,118.802388082252
+"00000003","Sarah","Hansen","sarah.hansen@widgetcorp.com","Executive","Executive",2011-05-07,90.357935811703
+"00000004","Desjanay","Gulley","desjanay.gulley@widgetcorp.com","Executive","Executive",2011-05-07,89.5998695722966
+"00000005","Hamdoona","el-Nasrallah","hamdoona.el-nasrallah@widgetcorp.com","Executive","Executive",2011-05-07,87.7780924870403
+"00000006","Raven","Collins","raven.collins@widgetcorp.com","Executive","Executive",2011-05-07,89.5962510585078
+"00000007","Audrey","Pacheco","audrey.pacheco@widgetcorp.com","Executive","Executive",2011-05-07,89.4162349137845
+"00000008","Muhjar","al-Sahli","muhjar.al-sahli@widgetcorp.com","Executive","Executive",2011-05-07,90.8743461646274
+"00000009","So Min","Ismail","so min.ismail@widgetcorp.com","Executive","Executive",2011-05-07,93.7646482433696
+"00000010","Samantha","Winegardner","samantha.winegardner@widgetcorp.com","Executive","Executive",2011-05-07,88.2639619071171
+"00000037","Kiera","Howard","kiera.howard@widgetcorp.com","Finance","Director",2013-11-16,42.7875976196449
+"00000104","Layla","Chumbley","layla.chumbley@widgetcorp.com","Finance","Manager",2015-07-16,34.8085267353952
+"00000111","Uthmaa N","el-Aboud","uthmaa n.el-aboud@widgetcorp.com","Finance","Manager",2015-09-22,46.9417457334123
+"00000125","Bishr","al-Baluch","bishr.al-baluch@widgetcorp.com","Finance","Director",2015-11-30,50.3826146046332
+"00000167","William","Richardson","william.richardson@widgetcorp.com","Finance","Analyst",2016-09-06,41.6065363722389
+"00000173","Sydney","Santillano","sydney.santillano@widgetcorp.com","Finance","Analyst",2016-10-08,28.7983770055443
+"00000190","Scott","Pham","scott.pham@widgetcorp.com","Finance","Analyst",2017-01-19,40.1045205575805
+"00000221","Brianna","Adams","brianna.adams@widgetcorp.com","Finance","Associate",2017-11-15,29.3756110700337
+"00000233","Hannah","Duffy","hannah.duffy@widgetcorp.com","Finance","Analyst",2018-03-18,25.6947005456095
+"00000250","Jordan","Haskan","jordan.haskan@widgetcorp.com","Finance","Associate",2018-11-01,41.9652875776678
+"00000252","Mujaahida","al-Waheed","mujaahida.al-waheed@widgetcorp.com","Finance","Analyst",2018-11-16,21.8320126192293
+"00000017","Tierra","Tribble","tierra.tribble@widgetcorp.com","HR","Director",2012-09-17,42.710997810137
+"00000034","Jerilyn","Lucas","jerilyn.lucas@widgetcorp.com","HR","Manager",2013-08-02,40.3857961675215
+"00000057","Abigail","Thompson","abigail.thompson@widgetcorp.com","HR","Manager",2014-06-11,38.3723965968709
+"00000070","Alexander","Czapla","alexander.czapla@widgetcorp.com","HR","Director",2014-09-21,46.2515822687503
+"00000076","Zaahid","el-Gad","zaahid.el-gad@widgetcorp.com","HR","Manager",2014-11-13,42.0701226647721
+"00000171","Taylor","Chen","taylor.chen@widgetcorp.com","HR","Associate",2016-09-19,32.355425845038
+"00000174","Brijeah","Hubbard","brijeah.hubbard@widgetcorp.com","HR","Analyst",2016-10-09,26.8213080239902
+"00000189","Angelic","Moreno","angelic.moreno@widgetcorp.com","HR","Analyst",2017-01-11,26.5153668643745
+"00000231","Aamina","el-Hamady","aamina.el-hamady@widgetcorp.com","HR","Associate",2018-03-01,30.2032516411235
+"00000238","Chanel","Hassler","chanel.hassler@widgetcorp.com","HR","Analyst",2018-05-01,25.5068927102848
+"00000262","Parker","Tiger","parker.tiger@widgetcorp.com","HR","Analyst",2019-05-22,31.4177654011541
+"00000265","Raakaan","el-Khalili","raakaan.el-khalili@widgetcorp.com","HR","Analyst",2020-04-10,NA
+"00000031","Clay","Steiner","clay.steiner@widgetcorp.com","IT/IS","VP",2013-07-06,70.1477481116795
+"00000032","Aspen","Avorque","aspen.avorque@widgetcorp.com","IT/IS","Director",2013-07-27,42.1739189137942
+"00000061","Richard","Loredo","richard.loredo@widgetcorp.com","IT/IS","Manager",2014-07-06,61.2513348469681
+"00000074","Kindra","Garcia","kindra.garcia@widgetcorp.com","IT/IS","Manager",2014-10-29,39.62511902618
+"00000119","Jesus","Espinoza","jesus.espinoza@widgetcorp.com","IT/IS","Analyst",2015-11-03,28.5596038557726
+"00000161","Grace","Hayashida","grace.hayashida@widgetcorp.com","IT/IS","Manager",2016-07-24,38.1640101464929
+"00000212","Yvonne","Cirbo","yvonne.cirbo@widgetcorp.com","IT/IS","Analyst",2017-07-04,25.794787473041
+"00000239","Alexandria","Krebs","alexandria.krebs@widgetcorp.com","IT/IS","Analyst",2018-06-29,24.0104890875196
+"00000248","Dayriana","Brown","dayriana.brown@widgetcorp.com","IT/IS","Analyst",2018-10-14,25.1601036810018
+"00000014","Walter","Thao","walter.thao@widgetcorp.com","Information Technology and Information Seucrity","VP",2012-06-24,69.7571580816808
+"00000033","Fat'hi","el-Guler","fat'hi.el-guler@widgetcorp.com","Information Technology and Information Seucrity","Director",2013-07-30,58.2430260054394
+"00000060","Cody","Battig","cody.battig@widgetcorp.com","Information Technology and Information Seucrity","Manager",2014-07-04,67.7920494236336
+"00000062","Margaret","Glowczewski","margaret.glowczewski@widgetcorp.com","Information Technology and Information Seucrity","Manager",2014-07-14,37.4137909554228
+"00000078","Mahuroos","al-Khawaja","mahuroos.al-khawaja@widgetcorp.com","Information Technology and Information Seucrity","Director",2014-11-29,67.4914514383695
+"00000091","Tasneem","al-Matar","tasneem.al-matar@widgetcorp.com","Information Technology and Information Seucrity","Associate",2015-03-24,34.2627773936791
+"00000122","Sierra","Hernandez","sierra.hernandez@widgetcorp.com","Information Technology and Information Seucrity","Manager",2015-11-13,36.6263939125757
+"00000153","Amy","Lutter","amy.lutter@widgetcorp.com","Information Technology and Information Seucrity","Associate",2016-05-24,30.2839020260927
+"00000162","Joylensia","Archuleta","joylensia.archuleta@widgetcorp.com","Information Technology and Information Seucrity","Associate",2016-07-27,30.9867038973653
+"00000182","Quyen","Elfring","quyen.elfring@widgetcorp.com","Information Technology and Information Seucrity","Associate",2016-12-02,36.7645606859067
+"00000197","Nicholas","Mock","nicholas.mock@widgetcorp.com","Information Technology and Information Seucrity","Analyst",2017-03-07,34.9983469805234
+"00000229","Walter","Parker","walter.parker@widgetcorp.com","Information Technology and Information Seucrity","Analyst",2018-01-18,34.0865912318457
+"00000264","Quy","Trotter","quy.trotter@widgetcorp.com","Information Technology and Information Seucrity","Analyst",2019-09-25,NA
+"00000015","Chantell","Truong","chantell.truong@widgetcorp.com","Legal","VP",2012-06-29,49.8885080246037
+"00000155","Brandon","Al-Najar","brandon.al-najar@widgetcorp.com","Legal","Associate",2016-06-12,49.2295600470914
+"00000187","Kevin","Floyd","kevin.floyd@widgetcorp.com","Legal","Manager",2016-12-30,45.4034602203335
+"00000267","Ryan","Summa","ryan.summa@widgetcorp.com","Legal","Analyst",2020-07-03,NA
+"00000011","Tahaani","al-Hosein","tahaani.al-hosein@widgetcorp.com","Marketing","VP",2011-11-03,48.8375515365061
+"00000012","Noah","Adolpho-Rivera","noah.adolpho-rivera@widgetcorp.com","Marketing","Director",2012-01-29,61.309188703928
+"00000025","Shavel","Rovaris","shavel.rovaris@widgetcorp.com","Marketing","Director",2013-04-14,50.4096561492992
+"00000028","Sarah","Salazar","sarah.salazar@widgetcorp.com","Marketing","VP",2013-04-23,50.6056909082366
+"00000029","Saleet","al-Bari","saleet.al-bari@widgetcorp.com","Marketing","Director",2013-04-30,58.6065843947478
+"00000038","Abigail","Ranson","abigail.ranson@widgetcorp.com","Marketing","Manager",2013-12-02,39.3493276363984
+"00000051","Cheyenne","Engelman","cheyenne.engelman@widgetcorp.com","Marketing","Director",2014-04-08,41.2573004430271
+"00000058","Duncan","Skaggs","duncan.skaggs@widgetcorp.com","Marketing","VP",2014-06-11,75.0643892405593
+"00000063","Deshawn","Evans","deshawn.evans@widgetcorp.com","Marketing","VP",2014-07-25,67.8455516889909
+"00000064","Frank","Martinez","frank.martinez@widgetcorp.com","Marketing","Director",2014-08-02,62.2250845277182
+"00000071","Sofia","Delgado","sofia.delgado@widgetcorp.com","Marketing","Associate",2014-09-28,34.2859651255194
+"00000097","Benjamin","Sourivong","benjamin.sourivong@widgetcorp.com","Marketing","Manager",2015-05-17,47.869815587835
+"00000098","Grant","Shirley","grant.shirley@widgetcorp.com","Marketing","Director",2015-06-04,49.557615182717
+"00000116","Marissa","Nguyen","marissa.nguyen@widgetcorp.com","Marketing","Associate",2015-10-16,31.9885821973805
+"00000117","Luis","Lucero","luis.lucero@widgetcorp.com","Marketing","Analyst",2015-10-27,41.8552106456702
+"00000134","A'Layjah","Copeland","a'layjah.copeland@widgetcorp.com","Marketing","Director",2016-02-09,42.2632843329163
+"00000140","Andrew","Ellis","andrew.ellis@widgetcorp.com","Marketing","Associate",2016-02-29,36.4326290806724
+"00000149","Antonio","Trujillo","antonio.trujillo@widgetcorp.com","Marketing","Associate",2016-05-14,43.2736897017295
+"00000150","Jason","Rodriguez","jason.rodriguez@widgetcorp.com","Marketing","Analyst",2016-05-16,35.0068151911456
+"00000152","Quenon","Spiller","quenon.spiller@widgetcorp.com","Marketing","Associate",2016-05-21,42.5655256644197
+"00000157","Amani","Hales","amani.hales@widgetcorp.com","Marketing","Associate",2016-06-23,32.0193780105471
+"00000160","Joshua","Franco","joshua.franco@widgetcorp.com","Marketing","Analyst",2016-07-23,35.0998317618
+"00000172","Kevin","Oda","kevin.oda@widgetcorp.com","Marketing","Associate",2016-09-26,56.0398667116784
+"00000177","David","Axmacher","david.axmacher@widgetcorp.com","Marketing","Associate",2016-11-02,51.2319338977699
+"00000191","Sasha","Tann","sasha.tann@widgetcorp.com","Marketing","Associate",2017-01-19,32.5888608925466
+"00000193","Leticya","Ngo","leticya.ngo@widgetcorp.com","Marketing","Manager",2017-02-14,35.3550524489857
+"00000195","Christina","Mockenhaupt","christina.mockenhaupt@widgetcorp.com","Marketing","Associate",2017-02-19,29.3184687417398
+"00000206","Andrew","Montoya","andrew.montoya@widgetcorp.com","Marketing","Associate",2017-05-11,48.8629448720727
+"00000213","Nicholas","Cordova","nicholas.cordova@widgetcorp.com","Marketing","Analyst",2017-07-09,32.9841623860059
+"00000214","Ana","Mendoza Hernandez","ana.mendoza hernandez@widgetcorp.com","Marketing","Analyst",2017-07-10,26.5022891581307
+"00000217","Raamiz","el-Hammad","raamiz.el-hammad@widgetcorp.com","Marketing","Manager",2017-09-10,38.257878551704
+"00000232","Nicholas","Smith","nicholas.smith@widgetcorp.com","Marketing","Associate",2018-03-17,30.441505860464
+"00000027","Vien","Chang","vien.chang@widgetcorp.com","Operations","VP",2013-04-21,55.5436403789719
+"00000035","Navya","Lumba","navya.lumba@widgetcorp.com","Operations","VP",2013-08-10,46.7788243140033
+"00000053","Ubaida","el-Mohammad","ubaida.el-mohammad@widgetcorp.com","Operations","Director",2014-04-23,43.5092967473375
+"00000084","Rushdi","al-Mousa","rushdi.al-mousa@widgetcorp.com","Operations","Director",2015-01-13,65.7733235376563
+"00000085","Azira","Truong","azira.truong@widgetcorp.com","Operations","Director",2015-01-13,41.4662896782728
+"00000089","Hanaan","al-Rahaim","hanaan.al-rahaim@widgetcorp.com","Operations","Manager",2015-03-12,35.0042757702306
+"00000096","Malachi","Bejarano","malachi.bejarano@widgetcorp.com","Operations","Associate",2015-05-01,38.4580185393979
+"00000109","Kelsie","Lovato","kelsie.lovato@widgetcorp.com","Operations","Analyst",2015-09-01,25.2397767962321
+"00000130","Destini","Manriquez Hernandez","destini.manriquez hernandez@widgetcorp.com","Operations","VP",2016-01-09,46.4803484520236
+"00000137","Courtney","Sky","courtney.sky@widgetcorp.com","Operations","Associate",2016-02-23,34.4873819395097
+"00000143","Brandon","Herring","brandon.herring@widgetcorp.com","Operations","Analyst",2016-03-23,20.0384507086487
+"00000144","Jessica","Anderson Cayasso","jessica.anderson cayasso@widgetcorp.com","Operations","Associate",2016-04-07,31.6497768297873
+"00000158","Timothy","Shah","timothy.shah@widgetcorp.com","Operations","Manager",2016-06-26,49.8067305102911
+"00000166","Lanora","Brooks","lanora.brooks@widgetcorp.com","Operations","Analyst",2016-08-30,25.6809724483623
+"00000176","Lizbeth","Espinosa Gamboa","lizbeth.espinosa gamboa@widgetcorp.com","Operations","Analyst",2016-10-31,28.198868344429
+"00000179","Carlos","Orrantia","carlos.orrantia@widgetcorp.com","Operations","Manager",2016-11-15,47.9024232075832
+"00000183","Khamel","Thomas","khamel.thomas@widgetcorp.com","Operations","Associate",2016-12-15,45.9005891373418
+"00000185","Cristina","Campas","cristina.campas@widgetcorp.com","Operations","Associate",2016-12-20,31.701348469633
+"00000186","Taylor","Medina","taylor.medina@widgetcorp.com","Operations","Associate",2016-12-21,32.2021801987198
+"00000194","Amal","el-Hanif","amal.el-hanif@widgetcorp.com","Operations","Analyst",2017-02-14,27.140434954847
+"00000196","Michael","Pina","michael.pina@widgetcorp.com","Operations","Associate",2017-03-01,31.1181858278336
+"00000198","Hugo","Funes","hugo.funes@widgetcorp.com","Operations","Analyst",2017-03-14,46.2471629960956
+"00000225","Michael","Thompson","michael.thompson@widgetcorp.com","Operations","Analyst",2017-12-12,34.7789526059979
+"00000240","Matthew","Grossman","matthew.grossman@widgetcorp.com","Operations","Analyst",2018-07-21,30.5429993034489
+"00000247","Mario","Wilson","mario.wilson@widgetcorp.com","Operations","Analyst",2018-10-12,29.4443637670078
+"00000255","Susan","Contreras","susan.contreras@widgetcorp.com","Operations","Analyst",2019-01-23,23.3023523898568
+"00000259","Taeler","Jarrell","taeler.jarrell@widgetcorp.com","Operations","Analyst",2019-04-20,23.704833479156
+"00000030","Qwa","Mporampora","qwa.mporampora@widgetcorp.com","Procurement","VP",2013-05-26,46.2533269138573
+"00000044","Jenai","Grimes","jenai.grimes@widgetcorp.com","Procurement","VP",2014-01-31,51.1911625401796
+"00000048","Garet","Maltz","garet.maltz@widgetcorp.com","Procurement","Associate",2014-03-18,41.5182715467273
+"00000050","Hannah","Charlie","hannah.charlie@widgetcorp.com","Procurement","Manager",2014-03-25,38.6970083740488
+"00000055","Amniyya","el-Sadri","amniyya.el-sadri@widgetcorp.com","Procurement","VP",2014-05-01,46.7824838139069
+"00000059","Ronald","Torrez","ronald.torrez@widgetcorp.com","Procurement","Analyst",2014-06-26,33.4785336375957
+"00000066","Turfa","el-Faris","turfa.el-faris@widgetcorp.com","Procurement","Director",2014-08-19,42.9239825832992
+"00000068","Awf","el-Zaman","awf.el-zaman@widgetcorp.com","Procurement","Associate",2014-08-27,49.9904037673679
+"00000082","Khairiya","al-Farag","khairiya.al-farag@widgetcorp.com","Procurement","Associate",2015-01-05,35.4341260435737
+"00000083","Joshua","Eurich","joshua.eurich@widgetcorp.com","Procurement","Director",2015-01-11,72.8367838556315
+"00000086","Sierra","Dehm","sierra.dehm@widgetcorp.com","Procurement","Associate",2015-01-15,33.7761727113225
+"00000092","Molly","Schoolmeester","molly.schoolmeester@widgetcorp.com","Procurement","Director",2015-04-08,42.6840603018189
+"00000100","Kelly","Conner","kelly.conner@widgetcorp.com","Procurement","Manager",2015-06-24,37.0390062750674
+"00000108","Sheena","Garcia","sheena.garcia@widgetcorp.com","Procurement","Manager",2015-08-27,35.8725419756329
+"00000120","Ghazaala","al-Siddique","ghazaala.al-siddique@widgetcorp.com","Procurement","Manager",2015-11-06,36.3068599702473
+"00000127","James","Wetsch","james.wetsch@widgetcorp.com","Procurement","Analyst",2015-12-21,33.8080209073748
+"00000135","Garitt","Lobato","garitt.lobato@widgetcorp.com","Procurement","Analyst",2016-02-10,36.9366269489802
+"00000139","Shaila","Marcus","shaila.marcus@widgetcorp.com","Procurement","Associate",2016-02-25,29.1599969279217
+"00000209","Daniel","Tse","daniel.tse@widgetcorp.com","Procurement","Analyst",2017-06-24,39.3795075864861
+"00000218","Tyler","Mauff","tyler.mauff@widgetcorp.com","Procurement","Analyst",2017-10-01,37.1965527114923
+"00000224","Madison","Workman","madison.workman@widgetcorp.com","Procurement","Associate",2017-12-01,29.4648122514169
+"00000246","Najeeba","al-Mona","najeeba.al-mona@widgetcorp.com","Procurement","Associate",2018-10-01,34.3124399626297
+"00000258","Fawzaana","al-Chahine","fawzaana.al-chahine@widgetcorp.com","Procurement","Analyst",2019-03-18,25.3161745659962
+"00000016","Joseph","Hsu","joseph.hsu@widgetcorp.com","Sales","VP",2012-08-04,49.962588451166
+"00000021","Jared","Thompson","jared.thompson@widgetcorp.com","Sales","Director",2013-02-17,78.7051547398228
+"00000024","Kylie","Christensen","kylie.christensen@widgetcorp.com","Sales","VP",2013-03-26,47.5374143126292
+"00000026","Alberto","Farris","alberto.farris@widgetcorp.com","Sales","Director",2013-04-18,60.9380519538972
+"00000036","Maria","Florez","maria.florez@widgetcorp.com","Sales","Manager",2013-09-19,38.1640522650293
+"00000042","Niccolette","Peterson","niccolette.peterson@widgetcorp.com","Sales","Director",2014-01-18,41.2600056017397
+"00000047","Alec","Luong","alec.luong@widgetcorp.com","Sales","VP",2014-03-13,84.47589412725
+"00000052","James","Lohr","james.lohr@widgetcorp.com","Sales","VP",2014-04-22,48.2146829490182
+"00000054","Brian","Miyauchi","brian.miyauchi@widgetcorp.com","Sales","Associate",2014-04-26,67.6487972268402
+"00000056","Luis","Gonzalez Baca","luis.gonzalez baca@widgetcorp.com","Sales","Director",2014-05-17,45.8577933628173
+"00000065","Christopher","Becker","christopher.becker@widgetcorp.com","Sales","Associate",2014-08-13,37.0663021498684
+"00000073","Jessica","Spencer","jessica.spencer@widgetcorp.com","Sales","Director",2014-10-22,40.4311770245478
+"00000077","Malachai","Sharpe","malachai.sharpe@widgetcorp.com","Sales","VP",2014-11-27,57.5379709002116
+"00000080","Caitlin","Smith","caitlin.smith@widgetcorp.com","Sales","Director",2014-12-15,40.7041211056788
+"00000087","Umaima","el-Rais","umaima.el-rais@widgetcorp.com","Sales","Manager",2015-02-09,36.9482717742077
+"00000090","Taylor","Fitzsimmons","taylor.fitzsimmons@widgetcorp.com","Sales","Director",2015-03-17,58.6975052998419
+"00000093","Nathan","Syracuse","nathan.syracuse@widgetcorp.com","Sales","Director",2015-04-16,45.3077379578948
+"00000094","Raquel","Valderrama Rivas","raquel.valderrama rivas@widgetcorp.com","Sales","Director",2015-04-20,39.8784652842523
+"00000101","Kathy","Galligan","kathy.galligan@widgetcorp.com","Sales","Director",2015-06-28,42.3440956973155
+"00000112","Zaahir","al-Salih","zaahir.al-salih@widgetcorp.com","Sales","Manager",2015-09-24,52.1520201425334
+"00000114","Benjamin","Kim","benjamin.kim@widgetcorp.com","Sales","Manager",2015-09-29,51.0342731415655
+"00000121","Chau","Yi","chau.yi@widgetcorp.com","Sales","Associate",2015-11-11,34.0612114411539
+"00000129","Cory","Wood","cory.wood@widgetcorp.com","Sales","Manager",2016-01-01,40.1532907721484
+"00000138","Caleb","Maestas","caleb.maestas@widgetcorp.com","Sales","Manager",2016-02-25,40.9491496686748
+"00000145","Alexander","Torres Weitzel Jr","alexander.torres weitzel jr@widgetcorp.com","Sales","Manager",2016-05-03,38.5778356594502
+"00000147","Marcus","Tran","marcus.tran@widgetcorp.com","Sales","Director",2016-05-06,60.1374915205093
+"00000151","Sabri","al-Kabir","sabri.al-kabir@widgetcorp.com","Sales","Associate",2016-05-18,43.5022992065407
+"00000164","Monina","Moua","monina.moua@widgetcorp.com","Sales","Associate",2016-08-29,28.0288272617249
+"00000168","Jaad","al-Abdou","jaad.al-abdou@widgetcorp.com","Sales","Associate",2016-09-06,41.896427098534
+"00000175","Waleed","el-Habibi","waleed.el-habibi@widgetcorp.com","Sales","Associate",2016-10-21,42.860436289833
+"00000201","Kyle","Miles","kyle.miles@widgetcorp.com","Sales","Analyst",2017-04-15,35.3294265085369
+"00000204","Kylan","Kelly","kylan.kelly@widgetcorp.com","Sales","Manager",2017-05-07,57.1548239594492
+"00000205","Brandon","Thompson","brandon.thompson@widgetcorp.com","Sales","Analyst",2017-05-09,42.4738149803774
+"00000210","Jake","Haanstad","jake.haanstad@widgetcorp.com","Sales","Analyst",2017-06-25,26.4514396716682
+"00000226","Jacob","Junco-Valadez","jacob.junco-valadez@widgetcorp.com","Sales","Associate",2017-12-14,39.0646078301887
+"00000228","Aliceia","Palmier","aliceia.palmier@widgetcorp.com","Sales","Analyst",2017-12-22,27.2103853291185
+"00000234","Alfredo","Amador Gama","alfredo.amador gama@widgetcorp.com","Sales","Analyst",2018-03-31,36.7544476875893
+"00000235","Jeffrey","Ortega","jeffrey.ortega@widgetcorp.com","Sales","Analyst",2018-04-08,27.7121576294463
+"00000242","Tyler","Lim","tyler.lim@widgetcorp.com","Sales","Analyst",2018-08-16,33.7907018748803
+"00000244","Rocky","Valentine","rocky.valentine@widgetcorp.com","Sales","Analyst",2018-09-12,20.1592080578614
+"00000253","Andrew","Nguyen","andrew.nguyen@widgetcorp.com","Sales","Analyst",2018-12-01,26.4581203847546
+"00000257","Jabril","Bell","jabril.bell@widgetcorp.com","Sales","Analyst",2019-03-12,25.7730562207292
+"00000261","K'Lyn","Hubbard","k'lyn.hubbard@widgetcorp.com","Sales","Manager",2019-04-28,33.9531817021225
+"00000263","Issac","Blackbear","issac.blackbear@widgetcorp.com","Sales","Associate",2019-09-10,NA
+"00000020","Crue","Sago","crue.sago@widgetcorp.com","Saless","VP",2013-01-04,55.7833799599361
+"00000022","David","Bosveld","david.bosveld@widgetcorp.com","Saless","Director",2013-03-20,54.6313600065075
+"00000046","Katalina","Alarid","katalina.alarid@widgetcorp.com","Saless","Director",2014-02-27,44.1619267148635
+"00000095","Maisara","al-Hallal","maisara.al-hallal@widgetcorp.com","Saless","Manager",2015-04-20,37.3751286588576
+"00000105","Abbaas","el-Abood","abbaas.el-abood@widgetcorp.com","Saless","Manager",2015-07-23,47.7355493910602
+"00000110","Zoran","Marken","zoran.marken@widgetcorp.com","Saless","Manager",2015-09-19,54.6172058122238
+"00000126","Manuel","Templin","manuel.templin@widgetcorp.com","Saless","Associate",2015-12-14,45.7008893826341
+"00000202","Daiszha","Zellars","daiszha.zellars@widgetcorp.com","Saless","Analyst",2017-05-01,25.8247361968023
+"00000254","Kaarim","al-Salah","kaarim.al-salah@widgetcorp.com","Saless","Analyst",2019-01-15,25.1742047656149
