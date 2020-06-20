@@ -1,4 +1,4 @@
-# Code and Data for the People Analytics Enthusiasts
+# Code and Data for the People Analytics Enthusiast
 
 This repo is built for People/HR/Workforce Analytics practitioners, enthusiasts, educators, and newcomers alike. It contains code and example data For learning and demonstration purposes.
 
