@@ -9,7 +9,10 @@ This repository is open for use by all for educational purposes, and is licensed
 You may use any of these resources for any non-profit-seeking purpose. 
 
 Please cite this repository in your work. You can refer to the following DOI for citation.
+<<<<<<< HEAD
 
+=======
+>>>>>>> e36339d82ec73ff7414ef76621a1192450a20cc3
 [![DOI](https://zenodo.org/badge/273516547.svg)](https://zenodo.org/badge/latestdoi/273516547)
 
 ## Contents
