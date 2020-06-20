@@ -1,13 +1,13 @@
 library(data.table)
 library(randomNames)
 library(stringr)
+library(feather)
 
 set.seed(12)
 core_data=data.table(randomNames(267,return.complete.data = T))
 
 #create email address
 core_data[,`Email Address`:=paste0(tolower(first_name),'.',tolower(last_name),'@widgetcorp.com')]
-
 
 #create random department data
 departments<-c(rep('Sales',44),
@@ -81,9 +81,9 @@ setnames(core_data,c('first_name','last_name'),c('First Name','Last Name'))
 setcolorder(core_data,c('Employee Number','First Name','Last Name','Email Address'))
 setorderv(core_data,c('Department','Employee Number'))
 
-saveRDS(core_data,'./RDS/headcount.RDS')
+write.csv(core_data,'./hr_information_systems/data/headcount.csv', row.names = F)
 
-write.csv(core_data,'./headcount.csv',row.names = F)
+write_feather(core_data,'./hr_information_systems/data/headcount.feather')
 
 # make a separate education column
 
@@ -96,4 +96,6 @@ education<-c(rep('High School Diploma',10),
 education_dat<-data.table(`Employee Number`=core_data[,`Employee Number`])
 education_dat[,Education:=sample(education,size = .N,replace=T)]
 
-write.csv(education_dat,'highest_education_completed.csv',row.names = F)
+write.csv(education_dat,'./hr_information_systems/data/highest_education_completed.csv',row.names = F)
+
+write_feather(education_dat,'./hr_information_systems/data/highest_education_completed.feather')

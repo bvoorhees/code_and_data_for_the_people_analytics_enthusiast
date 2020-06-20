@@ -1,13 +1,14 @@
 library(data.table)
 library(randomNames)
 library(stringr)
+library(feather)
 
 set.seed(12)
 
-core_data<-readRDS('./RDS/headcount.RDS')
+core_data<-read_feather('./hr_information_systems/data/headcount.feather')
+setDT(core_data)
 
 survey<-data.table(`Employee Number`=core_data[,`Employee Number`])
-
 
 even_distrib<-c(rep(1,20),
                 rep(2,20),
@@ -85,6 +86,6 @@ for (v in question_vars){
 
 survey<-survey[!sample(nrow(survey),size = 42)]
 
-saveRDS(survey,'./RDS/survey.RDS')
+write.csv(survey,'./employee_listening/data/survey.csv',row.names = F)
 
-write.csv(survey,'./survey.csv',row.names = F)
+write_feather(survey,'./employee_listening/data/survey.feather')
