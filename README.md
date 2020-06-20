@@ -1,6 +1,6 @@
-# Code and Data for learning People Analytics 
+# Code and Data for the People Analytics Enthusiasts
 
-Code and data for People/HR/Workforce/ Analytics practitioners, enthusiasts, educators, and newcomers alike. For learning and demonstration purposes.
+This repo is built for People/HR/Workforce Analytics practitioners, enthusiasts, educators, and newcomers alike. It contains code and example data For learning and demonstration purposes.
 
 ## Usage and citation
 
@@ -9,13 +9,7 @@ This repository is open for use by all for educational purposes, and is licensed
 You may use any of these resources for any non-profit-seeking purpose. 
 
 Please cite this repository in your work. You can refer to the following DOI for citation.
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> e36339d82ec73ff7414ef76621a1192450a20cc3
-=======
->>>>>>> e36339d82ec73ff7414ef76621a1192450a20cc3
 [![DOI](https://zenodo.org/badge/273516547.svg)](https://zenodo.org/badge/latestdoi/273516547)
 
 ## Contents
