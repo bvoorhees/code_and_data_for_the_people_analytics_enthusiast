@@ -4,7 +4,7 @@ This repo is built for People/HR/Workforce Analytics practitioners, enthusiasts,
 
 ## Usage and citation
 
-This repository is open for use by all, and is licensed under GNU GPLv3.
+This repository is open for use by all, and is under MIT License
 
 Please cite this repository in your work. 
 
