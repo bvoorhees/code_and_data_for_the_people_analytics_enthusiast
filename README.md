@@ -17,12 +17,12 @@ Please cite this repository in your work. You can refer to the following DOI for
 Each subdirectory contains:
 
 * R and/or python code used to generate synthetic/mock data commonly used by people analytics teams
-* R and/or python code used to analyze synthetic data.
-* Example datasets in CSV and feather format
+* R and/or python code used to analyze synthetic/mock data
+* Synthetic/mock datasets in CSV and feather format
 
 ### HR Information Systems
 
-Data commonly stored from HR Information systems (such as Workday, PeopleSoft, SAP, etc.). Includes things like employee rosters with demographic information, recruitment*, compensation, 
+Data commonly stored from HR Information systems (such as Workday, PeopleSoft, SAP, etc.). Includes things like employee rosters with demographics, recruitment data, compensation data, and talent management data. 
 
 ### Employee Listening 
 
