@@ -4,13 +4,11 @@ This repo is built for People/HR/Workforce Analytics practitioners, enthusiasts,
 
 ## Usage and citation
 
-This repository is open for use by all for educational purposes, and is licensed under GNU GPLv3.
+This repository is open for use by all, and is licensed under GNU GPLv3.
 
-You may use any of these resources for any non-profit-seeking purpose. 
+Please cite this repository in your work. 
 
-Please cite this repository in your work. You can refer to the following DOI for proper citation.
-
-[![DOI](https://zenodo.org/badge/273516547.svg)](https://zenodo.org/badge/latestdoi/273516547)
+You can refer to the following DOI for proper citation. [![DOI](https://zenodo.org/badge/273516547.svg)](https://zenodo.org/badge/latestdoi/273516547)
 
 ## Contents
 
