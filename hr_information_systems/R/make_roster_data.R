@@ -4,31 +4,38 @@ library(stringr)
 library(feather)
 
 set.seed(12)
-core_data=data.table(randomNames(267,return.complete.data = T))
 
-#create email address
+#declare number of employees
+no_employees<-550
+
+#create random names for employees
+#note the randomNames package returns gender and ethnicity data 
+core_data=data.table(randomNames(no_employees,return.complete.data = T))
+setnames(core_data,'ethnicity','Ethnicity')
+
+#create email addresses for each employee
 core_data[,`Email Address`:=paste0(tolower(first_name),'.',tolower(last_name),'@widgetcorp.com')]
 
-#create random department data
-departments<-c(rep('Sales',44),
-               rep('Saless',9),
-               rep('HR',12),
-               rep('Finance',11),
-               rep('Complaince',6),
-               rep('Legal',4),
-               rep('Executive',10),
-               rep('Information Technology and Information Seucrity',13),
-               rep('IT/IS',9),
-               rep('Admin Offices',10),
-               rep('Marketing',32),
-               rep('Engineering',36),
-               rep('Design',21),
-               rep('Operations',27),
-               rep('Procurement',23))
+#create random department data with errors in spelling for students to clean
+departments<-c(rep('Sales',16),
+               rep('Saless',3),
+               rep('HR',4),
+               rep('Finance',4),
+               rep('Complaince',2),
+               rep('Legal',2),
+               rep('Executive',4),
+               rep('Information Technology and Information Seucrity',5),
+               rep('IT/IS',3),
+               rep('Admin Offices',4),
+               rep('Marketing',12),
+               rep('Engineering',13),
+               rep('Design',8),
+               rep('Operations',10),
+               rep('Procurement',10))
 
-core_data[,Department:=sample(departments)]
+core_data[,Department:=sample(departments,size=no_employees,replace = T)]
 
-#create random Job levels
+#create random job levels with a traditional hierarchy
 job_levels<-c(rep('VP',1),
               rep('Director',2),
               rep('Manager',2),
@@ -39,59 +46,62 @@ job_levels<-factor(job_levels,levels=c('Analyst','Associate','Manager','Director
 
 core_data[,`Job Level`:=sample(job_levels,size = .N,replace=T),Department]
 
-#create random tenure distributions
-core_data[,Tenure:=as.numeric(`Job Level`)*1+rnorm(n=1,mean=1,sd=1.2),`Email Address`]
+#create random tenure distributions based on job level
+core_data[,Tenure:=as.numeric(`Job Level`)*1+rnorm(n=1,mean=3,sd=1.2),`Email Address`]
 
-#create tenure_dates
-core_data[,`Tenure Date`:=Sys.Date()-Tenure*365.25]
+#create tenure_dates - with executives as original employees/founders
+core_data[,`Report Effective Date`:=Sys.Date()]
+
+core_data[,`Tenure Date`:=`Report Effective Date`-Tenure*365.25]
 core_data[,min_tenure_date:=min(`Tenure Date`)]
 
 core_data[Department=='Executive',`Tenure Date`:=min_tenure_date-180]
+core_data[Department=='Executive',Tenure:=as.numeric(`Report Effective Date`-`Tenure Date`)/365.25]
 core_data[Department=='Executive',`Job Level`:='Executive']
 
-#clean gender data
+#recode randomNames' gender data from numeric to character
+#to do: include options for non-binary and non-provided gender information
 setnames(core_data,'gender','gender_code')
 core_data[gender_code==0, Gender:='Male']
 core_data[gender_code==1, Gender:='Female']
 
-#create random employee ID
+#create random employee IDs in order of tenure
 core_data[order(`Tenure Date`),`Employee Number`:=str_pad(1:.N,8,pad='0')]
 
-#create random salary information
-core_data[,base_comp:=30000+(Tenure^.5)*5000+as.numeric(`Job Level`)*10000+rnorm(n=1,mean=7000,sd=3000),`Email Address`]
+#create random salary information based on tenure and job level
+core_data[,`Base Comp`:=30000+(Tenure^.5)*5000+as.numeric(`Job Level`)*10000+rnorm(n=1,mean=7000,sd=3000),`Email Address`]
 
-core_data[Department=='Executive',base_comp:=base_comp*1.75]
+#give executives a bump above everyone else
+core_data[Department=='Executive',`Base Comp`:=`Base Comp`*1.75]
 
-core_data[Gender=='Male',base_comp:=base_comp*rnorm(1,mean=1.3,sd=.2),`Email Address`]
+#introduce pay equity issues for student analysis
+core_data[Gender=='Male',`Base Comp`:=`Base Comp`*rnorm(1,mean=1.3,sd=.2),`Email Address`]
+core_data[,`Pay Rate`:=round(`Base Comp`/52/40,2)]
 
-core_data[,`Pay Rate`:=base_comp/52/40]
-
-#clean data
+#remove columns used for data construction purposes
 core_data[,gender_code:=NULL]
-core_data[,base_comp:=NULL]
-
-#clean ethnicity data
-core_data[,ethnicity:=NULL]
-core_data[,Gender:=NULL]
-core_data[,Tenure:=NULL]
 core_data[,min_tenure_date:=NULL]
 
 #rename Columns
 setnames(core_data,c('first_name','last_name'),c('First Name','Last Name'))
-setcolorder(core_data,c('Employee Number','First Name','Last Name','Email Address'))
+
+#reorder columns
+setcolorder(core_data,c('Employee Number','First Name','Last Name','Email Address','Department','Job Level','Tenure','Tenure Date','Pay Rate','Base Comp','Gender','Ethnicity'))
+
+#sort data
 setorderv(core_data,c('Department','Employee Number'))
 
+#write data
 write.csv(core_data,'./hr_information_systems/data/headcount.csv', row.names = F)
 
 write_feather(core_data,'./hr_information_systems/data/headcount.feather')
 
-# make a separate education column
-
+# make a separate education dataset for students to practice mereges/lookups
 education<-c(rep('High School Diploma',10),
-               rep('Master',5),
-               rep('Some College',10),
-               rep('Bachelor',5),
-               rep('PhD',2))
+             rep('Master',5),
+             rep('Some College',10),
+             rep('Bachelor',5),
+             rep('PhD',2))
 
 education_dat<-data.table(`Employee Number`=core_data[,`Employee Number`])
 education_dat[,Education:=sample(education,size = .N,replace=T)]
