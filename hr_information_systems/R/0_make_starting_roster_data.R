@@ -1,5 +1,5 @@
 # 0_make_starting_roster_data.R
-# Bennet Voorhees (bevo_data_science@me.com)
+# Bennet Voorhees (bevo_data_science [at] me [dot] com)
 # The purpose of this script is to make a fictitious starting dataset 
 # for a fictitious company (WidgetCorp). 
 
