@@ -23,7 +23,7 @@ set.seed(12)
 no_employees<-550
 
 #declare effective date for report
-effective_date<-as.Date('2020-01-31')
+effective_date<-as.Date('2018-12-31')
 
 #### DATA GENERATION ####
 
