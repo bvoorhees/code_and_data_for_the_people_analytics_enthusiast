@@ -1,0 +1,48 @@
+"Employee Number","First Name","Last Name","Email Address","Department","Job Level","Tenure","Pay Rate","Base Comp","Gender","Ethnicity","Tenure Date","Action Type","Voluntary / Involuntary","Action Date"
+"00000369","Lorna","Archuleta","lorna.archuleta@widgetcorp.com","Admin Offices","Associate",4.64933355218362,30.1,62597.9963031841,"Female",2,2014-05-07,"Termination","Voluntary",2019-02-26
+"00000458","Berenice","Valdez-Refugio","berenice.valdez-refugio@widgetcorp.com","Admin Offices","Analyst",5.02709102746439,29.6,61566.4753326073,"Female",4,2013-12-20,"Termination","Voluntary",2019-08-21
+"00000503","Tyler","Reilly","tyler.reilly@widgetcorp.com","Design","Associate",5.25333731432302,41.52,86358.0598044153,"Male",2,2013-09-29,"Termination","Voluntary",2019-03-26
+"00000695","Stephanie","Ramirez","stephanie.ramirez@widgetcorp.com","Design","Associate",6.22730199548859,34.81,72404.6300976425,"Female",4,2012-10-08,"Termination","Voluntary",2019-06-27
+"00000349","Sarah","Billups","sarah.billups@widgetcorp.com","Engineering","Analyst",4.51719452144458,27.92,58082.055262395,"Female",2,2014-06-25,"Termination","Voluntary",2019-06-28
+"00000498","Janiece","Gutierrez","janiece.gutierrez@widgetcorp.com","Engineering","Associate",5.22272871705202,31.54,65594.2435368115,"Female",4,2013-10-10,"Termination","Voluntary",2019-10-27
+"00000975","Husaam","el-Shehata","husaam.el-shehata@widgetcorp.com","Engineering","VP",9.6437357574324,77.93,162089.448601505,"Male",6,2009-05-09,"Termination","Voluntary",2019-06-17
+"00000483","Badr","al-Shehadeh","badr.al-shehadeh@widgetcorp.com","Finance","Analyst",5.15683973336309,33.3,69265.1416657377,"Male",6,2013-11-03,"Termination","Voluntary",2019-09-20
+"00000860","Xavier","Evans","xavier.evans@widgetcorp.com","Finance","Director",7.49109610061782,74.88,155743.762636354,"Male",3,2011-07-04,"Termination","Voluntary",2019-09-09
+"00000380","Patricia","Tunks","patricia.tunks@widgetcorp.com","HR","Associate",4.70073669039668,31.17,64839.4468511077,"Female",5,2014-04-19,"Termination","Voluntary",2019-12-13
+"00000706","Monaye","Bivins","monaye.bivins@widgetcorp.com","HR","Associate",6.30105370349969,32.65,67908.3342248227,"Female",3,2012-09-11,"Termination","Voluntary",2019-12-10
+"00000101","Matthew","Herbertson","matthew.herbertson@widgetcorp.com","Information Technology and Information Seucrity","Manager",3.12497153653619,52.17,108516.302459064,"Male",5,2015-11-15,"Termination","Voluntary",2019-10-16
+"00000634","Lauren","Sikes","lauren.sikes@widgetcorp.com","Information Technology and Information Seucrity","Director",5.88815494075448,42.46,88314.1336457681,"Female",5,2013-02-09,"Termination","Voluntary",2019-05-10
+"00000643","Thaylor","Mahnken","thaylor.mahnken@widgetcorp.com","Information Technology and Information Seucrity","Associate",5.92309321910072,42.28,87933.5171982468,"Male",1,2013-01-27,"Termination","Voluntary",2019-05-26
+"00000089","Jessica","Alaniz","jessica.alaniz@widgetcorp.com","Marketing","Associate",3.01164950445627,30.58,63597.3093094821,"Female",4,2015-12-26,"Termination","Voluntary",2019-07-22
+"00000328","Alexis","Vallejo","alexis.vallejo@widgetcorp.com","Marketing","Manager",4.43752262670423,36.7,76328.5574101105,"Female",4,2014-07-24,"Termination","Voluntary",2019-10-19
+"00000346","Destiny","Smith","destiny.smith@widgetcorp.com","Marketing","Associate",4.51210283541738,33.82,70345.9353187869,"Female",5,2014-06-26,"Termination","Voluntary",2019-10-11
+"00000416","Reina","Quintana","reina.quintana@widgetcorp.com","Marketing","Analyst",4.8425478576377,26.99,56137.2397762807,"Female",4,2014-02-26,"Termination","Voluntary",2019-03-11
+"00000509","Tyler","Mccabe","tyler.mccabe@widgetcorp.com","Marketing","Director",5.28106073174882,52.77,109757.553386139,"Male",1,2013-09-19,"Termination","Voluntary",2019-01-06
+"00000693","Shanequa","Stewart","shanequa.stewart@widgetcorp.com","Marketing","Associate",6.21783260703196,32.64,67884.6743246533,"Female",3,2012-10-11,"Termination","Voluntary",2019-08-19
+"00000898","Jameel","al-Pour","jameel.al-pour@widgetcorp.com","Marketing","Director",7.97041502738045,76.55,159230.992126417,"Male",6,2011-01-10,"Termination","Voluntary",2019-03-09
+"00000096","Mario","Maldonado","mario.maldonado@widgetcorp.com","Operations","Analyst",3.06187591766022,32.89,68416.4784604199,"Male",4,2015-12-08,"Termination","Voluntary",2019-06-05
+"00000106","Jannat","el-Hashemi","jannat.el-hashemi@widgetcorp.com","Operations","Associate",3.17324409303749,31.12,64732.5808538439,"Female",6,2015-10-28,"Termination","Voluntary",2019-10-17
+"00000225","Cherokee","Carter","cherokee.carter@widgetcorp.com","Operations","Associate",3.9064387161948,32.11,66785.3157267314,"Female",1,2015-02-03,"Termination","Voluntary",2019-07-15
+"00000745","Christopher","Madrid","christopher.madrid@widgetcorp.com","Operations","Manager",6.49382937906288,46.89,97528.7542250923,"Male",4,2012-07-03,"Termination","Voluntary",2019-09-15
+"00000967","Alisha","Gonzalez","alisha.gonzalez@widgetcorp.com","Operations","Executive",9.24597018805755,55.46,115363.764519535,"Female",4,2009-10-01,"Termination","Voluntary",2019-06-04
+"00000130","Peter","Hang","peter.hang@widgetcorp.com","Procurement","Associate",3.37573688118746,53.17,110596.887478222,"Male",2,2015-08-16,"Termination","Voluntary",2019-12-09
+"00000552","K'Ara","Newton","k'ara.newton@widgetcorp.com","Procurement","Manager",5.47501705562657,34.53,71830.4322702264,"Female",3,2013-07-10,"Termination","Voluntary",2019-05-22
+"00000645","Hadbaaa","el-Rais","hadbaaa.el-rais@widgetcorp.com","Procurement","Manager",5.93950791693756,37.13,77221.2546252091,"Female",6,2013-01-21,"Termination","Voluntary",2019-11-14
+"00000840","Hasan","el-Sadiq","hasan.el-sadiq@widgetcorp.com","Procurement","VP",7.30316426076286,67.95,141340.377865531,"Male",6,2011-09-11,"Termination","Voluntary",2019-06-30
+"00000143","Wei Dan","Quinn","wei dan.quinn@widgetcorp.com","Sales","Analyst",3.45589965542572,27.83,57893.0501506169,"Female",2,2015-07-17,"Termination","Voluntary",2019-07-26
+"00000213","Faraah","el-Kaiser","faraah.el-kaiser@widgetcorp.com","Sales","Analyst",3.83793532432844,25.7,53459.975291233,"Female",6,2015-02-28,"Termination","Voluntary",2019-06-29
+"00000242","Blake","Connor","blake.connor@widgetcorp.com","Sales","Associate",3.99979363296497,42.76,88950.0881660483,"Male",1,2014-12-31,"Termination","Voluntary",2019-07-24
+"00000474","Morgan","Williams","morgan.williams@widgetcorp.com","Sales","Associate",5.13336361853943,28.57,59419.6209162877,"Male",3,2013-11-12,"Termination","Voluntary",2019-07-29
+"00000564","Robert","Fabela","robert.fabela@widgetcorp.com","Sales","Director",5.54033598040196,56.67,117877.591975877,"Male",4,2013-06-16,"Termination","Voluntary",2019-03-19
+"00000574","Darryl","Hernley","darryl.hernley@widgetcorp.com","Sales","Analyst",5.56607999249987,32.72,68063.113832357,"Male",5,2013-06-06,"Termination","Voluntary",2019-03-14
+"00000628","Joshuah","Felberg","joshuah.felberg@widgetcorp.com","Sales","Manager",5.86012430196958,58.79,122273.363723946,"Male",5,2013-02-19,"Termination","Voluntary",2019-10-21
+"00000644","Michiyo","Kim","michiyo.kim@widgetcorp.com","Sales","Associate",5.92395942982765,33.09,68833.6763686903,"Female",2,2013-01-27,"Termination","Voluntary",2019-06-05
+"00000113","Sarah","Roady","sarah.roady@widgetcorp.com","Saless","Analyst",3.24123597169075,27.84,57904.5380692551,"Female",5,2015-10-04,"Termination","Voluntary",2019-05-02
+"00000640","Alexander","Manganello","alexander.manganello@widgetcorp.com","Complaince","Analyst",5.91329677629863,31.8,66140.9698694321,"Male",2,2013-01-31,"Termination","Involuntary",2019-07-29
+"00000555","Meagan","Vang","meagan.vang@widgetcorp.com","Design","Manager",5.48924595616862,37.67,78361.8424288012,"Female",2,2013-07-05,"Termination","Involuntary",2019-11-22
+"00000273","Abdur Raheem","el-Selim","abdur raheem.el-selim@widgetcorp.com","Engineering","Associate",4.11966623780307,42.46,88308.1574103201,"Male",6,2014-11-17,"Termination","Involuntary",2019-09-14
+"00000596","Awad","el-Dada","awad.el-dada@widgetcorp.com","Engineering","Associate",5.68594556164399,42.74,88904.5427290975,"Male",6,2013-04-24,"Termination","Involuntary",2019-12-06
+"00000083","Parker","Mamatsios","parker.mamatsios@widgetcorp.com","Marketing","Analyst",2.94094268423536,30.39,63215.8137039553,"Male",5,2016-01-21,"Termination","Involuntary",2019-11-24
+"00000766","Ashley","Camerlo","ashley.camerlo@widgetcorp.com","Marketing","Manager",6.68787835933322,37.84,78699.3404740108,"Female",5,2012-04-23,"Termination","Involuntary",2019-12-24
+"00000767","Michael","Koski","michael.koski@widgetcorp.com","Marketing","Associate",6.70167677167413,37.03,77012.3068235296,"Male",5,2012-04-18,"Termination","Involuntary",2019-12-16
+"00000345","Portia","Maddux","portia.maddux@widgetcorp.com","Sales","Manager",4.50901778432581,36.11,75118.155311058,"Female",1,2014-06-28,"Termination","Involuntary",2019-01-20

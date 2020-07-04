@@ -1,0 +1,45 @@
+"Employee Number","First Name","Last Name","Email Address","Department","Job Level","Pay Rate","Base Comp","Gender","Ethnicity","Action Type","Tenure Date"
+"00000072","Milton","Koskovich","milton.koskovich@widgetcorp.com","Complaince","Analyst",37.96,78953.1943933698,"Male",1,"Hire",2019-08-16
+"00000045","Keely","Haring","keely.haring@widgetcorp.com","Design","Analyst",25.48,52994.9217575841,"Female",1,"Hire",2019-10-11
+"00000228","Sabaah","al-Nawaz","sabaah.al-nawaz@widgetcorp.com","Design","Associate",36.42,75753.1147417122,"Male",6,"Hire",2019-01-14
+"00000356","Alexandra","Kassmeier","alexandra.kassmeier@widgetcorp.com","Design","Analyst",29.19,60713.5387499665,"Female",5,"Hire",2019-11-20
+"00000523","Salomon","Leyva Cardenas","salomon.leyva cardenas@widgetcorp.com","Design","Associate",38.57,80218.5371943799,"Male",4,"Hire",2019-12-14
+"00000692","Preston","Faudoa Carrasco","preston.faudoa carrasco@widgetcorp.com","Design","Manager",34.88,72548.2520312748,"Male",4,"Hire",2019-03-14
+"00000779","Brendan","Marks","brendan.marks@widgetcorp.com","Design","Associate",36.99,76938.7375209165,"Male",1,"Hire",2019-10-23
+"00000962","Maria","Mendez","maria.mendez@widgetcorp.com","Design","Director",46.64,97017.5076607769,"Female",4,"Hire",2019-03-07
+"00000029","Shaaheen","el-Atallah","shaaheen.el-atallah@widgetcorp.com","Engineering","Analyst",28.75,59799.1476173352,"Male",6,"Hire",2019-07-12
+"00000381","Jewel","Quintana Jr","jewel.quintana jr@widgetcorp.com","Engineering","Analyst",28.84,59980.8657379899,"Female",1,"Hire",2019-12-06
+"00000999","Thao","Ali","thao.ali@widgetcorp.com","Engineering","Executive",55.83,116133.462291442,"Female",2,"Hire",2019-07-31
+"00000407","Gabrielle","Whitaker","gabrielle.whitaker@widgetcorp.com","Executive","Associate",55.04,114487.836344678,"Female",3,"Hire",2019-11-16
+"00000453","Shajee'a","el-Maroun","shajee'a.el-maroun@widgetcorp.com","Finance","Analyst",29.23,60799.5488735594,"Female",6,"Hire",2019-04-27
+"00000230","Fanio","Archuleta","fanio.archuleta@widgetcorp.com","HR","Associate",30.17,62747.2196633917,"Male",1,"Hire",2019-06-21
+"00000720","Ruth","Loya","ruth.loya@widgetcorp.com","HR","Analyst",28.28,58830.0029285527,"Female",4,"Hire",2019-03-20
+"00000934","Humaid","el-Siddique","humaid.el-siddique@widgetcorp.com","HR","VP",53.62,111524.468385485,"Male",6,"Hire",2019-09-08
+"00000272","Alexander","Muldoon","alexander.muldoon@widgetcorp.com","IT/IS","Analyst",42.53,88459.0209709174,"Male",5,"Hire",2019-10-01
+"00000566","Triniecia","Cross","triniecia.cross@widgetcorp.com","Information Technology and Information Seucrity","Analyst",28.82,59950.1025553117,"Female",3,"Hire",2019-03-17
+"00000675","Deepak","Sato","deepak.sato@widgetcorp.com","Information Technology and Information Seucrity","Associate",38.37,79817.5068577907,"Male",2,"Hire",2019-05-23
+"00000051","Kristopher","Warero Jr","kristopher.warero jr@widgetcorp.com","Marketing","Associate",29.21,60753.7024316719,"Male",3,"Hire",2019-07-01
+"00000082","Alyssa","Tsosie","alyssa.tsosie@widgetcorp.com","Marketing","Analyst",26.82,55793.0349693354,"Female",1,"Hire",2019-09-04
+"00000154","Marylyn","Lakobong","marylyn.lakobong@widgetcorp.com","Marketing","Associate",31.94,66444.3329555154,"Female",2,"Hire",2019-11-14
+"00000296","Mauriesha","Bailey","mauriesha.bailey@widgetcorp.com","Marketing","Analyst",28.09,58417.2400396072,"Female",3,"Hire",2019-06-28
+"00000339","Nicole","Salinas Frias","nicole.salinas frias@widgetcorp.com","Marketing","Analyst",25.88,53830.0098244096,"Female",4,"Hire",2019-01-26
+"00000423","Jonathan","Gomez","jonathan.gomez@widgetcorp.com","Marketing","Associate",48.26,100386.872404583,"Male",4,"Hire",2019-09-05
+"00000497","Jessica","Tisdel","jessica.tisdel@widgetcorp.com","Marketing","Analyst",26.85,55842.3791651856,"Female",3,"Hire",2019-04-05
+"00000024","Sergio","Ramirez","sergio.ramirez@widgetcorp.com","Operations","Analyst",37.47,77933.396715842,"Male",4,"Hire",2019-07-14
+"00000046","Kevin","Wong","kevin.wong@widgetcorp.com","Operations","Analyst",34.7,72173.05452534,"Male",2,"Hire",2019-06-20
+"00000088","Bailey","Perez","bailey.perez@widgetcorp.com","Operations","Analyst",39.27,81680.0127620036,"Male",2,"Hire",2019-02-15
+"00000109","Jesse","Garcilazo","jesse.garcilazo@widgetcorp.com","Operations","Analyst",31.34,65185.4151824549,"Male",4,"Hire",2019-10-03
+"00000440","Melissa","De Jesus Rivera","melissa.de jesus rivera@widgetcorp.com","Operations","Manager",37.13,77224.8246126311,"Female",4,"Hire",2019-03-12
+"00000544","Lutfiyya","el-Faraj","lutfiyya.el-faraj@widgetcorp.com","Operations","Analyst",28.5,59286.5316483105,"Female",6,"Hire",2019-01-03
+"00000958","Tiffany","Gonzales","tiffany.gonzales@widgetcorp.com","Operations","Director",45.49,94614.7938482717,"Female",4,"Hire",2019-08-21
+"00000019","Aaron","Rea","aaron.rea@widgetcorp.com","Procurement","Analyst",27.3,56781.2520542799,"Male",1,"Hire",2019-08-26
+"00000086","Amy","Chew","amy.chew@widgetcorp.com","Sales","Analyst",25.85,53766.462465021,"Female",5,"Hire",2019-09-08
+"00000115","Benjamin","Gilchrist","benjamin.gilchrist@widgetcorp.com","Sales","Associate",52.08,108327.557044835,"Male",5,"Hire",2019-11-30
+"00000221","Amer","Kim","amer.kim@widgetcorp.com","Sales","Analyst",25.66,53368.1099857753,"Male",2,"Hire",2019-04-26
+"00000567","Musheera","al-Mian","musheera.al-mian@widgetcorp.com","Sales","Manager",35.27,73367.0144642152,"Female",6,"Hire",2019-08-08
+"00000649","Shaakira","el-Saba","shaakira.el-saba@widgetcorp.com","Sales","Manager",37.7,78425.6622922402,"Female",6,"Hire",2019-09-04
+"00000831","Hamdi","al-Hameed","hamdi.al-hameed@widgetcorp.com","Sales","Manager",50.03,104058.241136822,"Male",6,"Hire",2019-08-23
+"00000926","Mumina","al-Amen","mumina.al-amen@widgetcorp.com","Sales","VP",49.96,103924.182793315,"Female",6,"Hire",2019-09-18
+"00000973","Jaime","Ramos-Silerio","jaime.ramos-silerio@widgetcorp.com","Sales","VP",68.14,141737.545834821,"Male",4,"Hire",2019-08-03
+"00000197","Randall","Franklin","randall.franklin@widgetcorp.com","Saless","Analyst",40.19,83588.6660736815,"Male",3,"Hire",2019-11-04
+"00000789","Eric","Williams","eric.williams@widgetcorp.com","Saless","Associate",40.68,84608.8047640453,"Male",3,"Hire",2019-11-10
