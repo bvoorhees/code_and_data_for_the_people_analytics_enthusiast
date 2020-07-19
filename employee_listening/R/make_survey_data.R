@@ -5,7 +5,7 @@ library(feather)
 
 set.seed(12)
 
-core_data<-read_feather('./hr_information_systems/data/headcount.feather')
+core_data<-read_feather('./hr_information_systems/data/widgetcorp_workforce_detail_roster_2018-12-31.feather')
 setDT(core_data)
 
 survey<-data.table(`Employee Number`=core_data[,`Employee Number`])
@@ -47,11 +47,11 @@ for (dept in core_data[,unique(Department)]){
 #"I am proud to work for widgetcorp"
 survey[,Q1:=sample(skew_high,size = .N,replace = T)]
 
-#"I would reccomend WidgetCorp as a great place to work"
+#"I would recommend WidgetCorp as a great place to work"
 survey[,Q2:=Q1+rbinom(.N,1,1/2)]
 
 #"I see myself still working at company in two years' time
-emplid_new_tenure<-core_data[Sys.Date()-`Tenure Date`<365,`Employee Number`]
+emplid_new_tenure<-core_data[`Report Effective Date`-`Tenure Date`<365*2,`Employee Number`]
 
 core_data[,comp_thresh:=mean(`Pay Rate`)-sd(`Pay Rate`),.(`Job Level`,Department)]
 emplid_low_comp<-core_data[comp_thresh>=`Pay Rate`,`Employee Number`]
